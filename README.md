@@ -3,7 +3,7 @@ Repositori ini berisi project **Modul 2** yang ada di Academy [Menjadi Game Deve
 
 Ingin Belajar membuat game untuk menjadi Menjadi Game Developer Expert?
 
-Peserta akan mempelajari tentang dasar-dasar bahasa pemrograman C#, Membuat Game Casual, Membuat Game Pukul Bola, Membuat Game Platformer, Membuat Game FPS, Multiplayer, Porting, dan Services.
+Peserta akan mempelajari tentang dasar-dasar bahasa pemrograman C#, Membuat Game Casual, Game Pilah Sampah, Game Arcade, Game Platformer, Game Tower Defense, Game FPS, Game Multiplayer, Porting ke Android/iOS, dan Services.
 
 Silakan daftar di [dicoding.id/a/47][menjadi-game-developer-expert].
 
